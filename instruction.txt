@@ -1,0 +1,46 @@
+Persiapan Data
+
+Gunakan dataset yang berbeda dari dataset sebelumnya, misalnya dataset penjualan produk, dataset kesehatan, atau dataset lainnya. Pastikan dataset ini memiliki berbagai jenis data yang bisa dianalisis, seperti data numerik, kategorik, dan teks.
+
+Pemahaman Data
+
+Langkah 1: Analisis, Telaah, dan Validasi Data
+
+Buka dataset yang telah dipilih dan lakukan analisis awal. Tulis deskripsi singkat mengenai dataset ini, termasuk jumlah entri, fitur yang ada, dan jenis datanya. Identifikasi apakah terdapat nilai yang hilang (missing value), data yang salah, atau outlier.
+
+Langkah 2: Strategi Pembersihan Data
+
+Tentukan strategi pembersihan data berdasarkan hasil telaah yang telah dilakukan. Misalnya, untuk mengatasi missing value, Anda bisa menggunakan teknik imputasi seperti:
+
+Mengisi dengan mean, median, atau mode.
+Menghapus baris atau kolom yang memiliki nilai hilang terlalu banyak.
+Langkah 3: Koreksi Data Kotor
+
+Lakukan koreksi terhadap data yang kotor berdasarkan strategi yang telah ditentukan. Pastikan semua langkah dikodekan dengan jelas, dan simpan hasil perubahan data tersebut.
+
+Langkah 4: Melakukan Transformasi Data
+
+Lakukan transformasi data menggunakan metode seperti normalisasi, scaling, atau encoding sesuai dengan tipe data. 
+
+Lakukan rekayasa fitur dengan menambahkan kolom data baru yang relevan dengan proyek data science.
+
+Langkah 5: Membuat Dokumentasi Konstruksi Data
+
+Buat dokumentasi mengenai proses transformasi data yang telah dilakukan, serta jelaskan secara tertulis teknik-teknik yang digunakan. Tulis rekomendasi mengenai hasil transformasi data dan dampaknya terhadap kualitas data untuk proyek data science.
+
+Langkah 6:Melakukan Pelabelan Data
+
+Analisis hasil pelabelan data sejenis yang telah ada dan pastikan kesesuaiannya dengan SOP pelabelan yang digunakan. Lakukan pelabelan data pada dataset baru sesuai dengan aturan dan panduan dalam SOP pelabelan.
+
+Langkah 7: Membuat Laporan Hasil Pelabelan Data
+
+Buat laporan statistik hasil pelabelan data dan uraikan distribusi label yang telah diterapkan pada data. Evaluasi proses pelabelan dan deskripsikan tantangan yang ditemukan serta langkah-langkah untuk memperbaikinya.
+
+Langkah 8: Visualisasi Data
+
+Visualisasikan data setelah proses pembersihan dan rekayasa fitur menggunakan grafik seperti scatter plot, histogram, atau box plot untuk memahami distribusi data.
+
+Langkah 9: Evaluasi dan Dokumentasi
+
+Dokumentasikan keseluruhan proses, hasil yang dicapai, dan rekomendasi tindak lanjut untuk meningkatkan kualitas data dan mendukung keputusan proyek data science.
+
