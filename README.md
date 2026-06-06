@@ -1,6 +1,6 @@
 # DataScience-KOMDIGI
 
-Proyek ini dibuat dari awal untuk mendemonstrasikan alur Data Science lengkap pada dataset Iris.
+Proyek ini dibuat dari awal untuk mendemonstrasikan alur Data Science lengkap pada dataset Iris menggunakan google colab dan gemini ai.
 Langkah-langkah yang didukung:
 - Analisis awal dataset
 - Validasi missing value, outlier, dan data tidak valid
@@ -11,7 +11,7 @@ Langkah-langkah yang didukung:
 
 ## Struktur proyek
 
-- `data/` - folder dataset input dan keluaran
+- `data/` - folder dataset input dan output
 - `src/` - modul python untuk membangun pipeline data
 - `reports/` - dokumentasi dan output analisis
 - `reports/figures/` - grafik hasil visualisasi
